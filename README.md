@@ -7,6 +7,8 @@ I am currently pursuing my degree in Computer Science
 
 * 🌍  I'm based in Thailand
   
+* 📄  I invite you to explore my projects at yemyat144.github.io/portfolio/me.html
+  
 * ✉️  You can contact me at [yemyatmoe.tetee@gmail.com](mailto:yemyatmoe.tetee@gmail.com)
   
 * 🧠  I'm learning java, python, html, css,...
