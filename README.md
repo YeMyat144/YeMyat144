@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://YeMyat144.io)
-<img src="https://komarev.com/ghpvc/?username=YeMyat144&label=Profile%20views&color=0e75b6&style=flat" alt="YeMyat144" />
+
 Hi 👋 My name is Ye Myat Moe
 ============================
 
@@ -24,3 +24,4 @@ I am currently pursuing my degree in Computer Science
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/YeMyat144"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YeMyat144&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<img src="https://komarev.com/ghpvc/?username=YeMyat144&label=Profile%20views&color=0e75b6&style=flat" alt="YeMyat144" />
