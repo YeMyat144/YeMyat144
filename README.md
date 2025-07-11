@@ -1,23 +1,17 @@
-# 👋 Hi, I'm Ye Myat Moe
+<h2>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ye Myat Moe
+</h2>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=36BCF7&width=435&lines=Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
+</p>
 
-- **Computer Science Student**
-- Currently learning **Deep Learning, NLP, ...**
 
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![MaterialUI](https://skillicons.dev/icons?i=materialui)
-![PHP](https://skillicons.dev/icons?i=php)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![Ocaml](https://skillicons.dev/icons?i=ocaml)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Anaconda](https://skillicons.dev/icons?i=anaconda)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![](https://skillicons.dev/icons?i=ows)
-
+```ts
+const YeMyat = {
+  code: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "C#"],
+  frameworks: ["React.js", "Next.js", "Vue", "Node.js", "Express.js", "Laravel", "Flask"],
+  ml: ["YOLOv5", "Scikit-learn", "OpenCV", "NLTK", "spaCy", "TensorFlow", "PyTorch", "SHAP", "LIME",],
+  databases: ["MongoDB", "Firestore", "PostgreSQL"],
+  tools: ["Git", "Firebase", "Streamlit", "Docker", "Supabase", "WebSocket", "Vercel", "Unity"],
+}
 
