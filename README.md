@@ -1,5 +1,5 @@
 <h2 style="font-family: 'Fira Code', monospace; font-size: 24px; color: #e0e7ff; letter-spacing: 1.2px; text-shadow: 0 0 8px #7f9cf5;">
-  Your friendly neighborhood <span style="color:#f5a623;">Coder-Man</span> 
+  Your Friendly Neighborhood <span style="color:#f5a623;">Coder-Man</span> 
 </h2>
 
 <p>
