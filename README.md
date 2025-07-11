@@ -1,9 +1,10 @@
-<h2>
+<h2 style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f0f6fc;">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ye Myat Moe
 </h2>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=fff&width=435&lines=Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=200&color=F0F6FC&width=435&lines=Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
 </p>
+
 
 
 ```ts
