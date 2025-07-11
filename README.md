@@ -2,7 +2,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ye Myat Moe
 </h2>
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=7AAEA2&width=435&lines=Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=200&color=fff&width=435&lines=Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
 </p>
 
 
