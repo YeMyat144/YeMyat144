@@ -1,8 +1,9 @@
-<h2 style="font-family: 'Fira Code', monospace; font-size: 22px; color: #f0f6fc;">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ye Myat Moe
+<h2 style="font-family: 'Fira Code', monospace; font-size: 24px; color: #e0e7ff; letter-spacing: 1.2px; text-shadow: 0 0 8px #7f9cf5;">
+  Your friendly neighborhood <span style="color:#f5a623;">Coder-Man</span> 
 </h2>
+
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=200&color=F0F6FC&width=435&lines=Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=200&color=F0F6FC&width=435&lines=Ye+Myat+Moe;Full-Stack+Developer;ML+%2F+AI+Explorer;Dest" alt="Typing SVG" />
 </p>
 
 
